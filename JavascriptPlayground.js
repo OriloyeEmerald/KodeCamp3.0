@@ -13,7 +13,7 @@ function convertString(str) {
     return result;
 
 }
-console.log(convertString('get that dog out of my sight'));// 'Get That Dog Out Of My Sight 
+convertString('get that dog out of my sight');// 'Get That Dog Out Of My Sight 
 
 
 // Write a JavaScript function that accepts a string as a parameter and finds the longest word within the string
@@ -77,31 +77,3 @@ function findNum(arr) {
 
 }
 findNum([100,5,80,2000,2, 61, 9]); // [5, 100]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
